@@ -1,16 +1,28 @@
-## Hi there 👋
+# Herdy Sya'banul Hakim
 
-<!--
-**herdysh30/herdysh30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mobile & Software Engineer**  
+[herdysh30.github.io/portofolio](https://herdysh30.github.io/portofolio/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+
+Mobile & Software Engineer with a Bachelor’s degree in Informatics Engineering, specializing in building robust, responsive, and scalable mobile applications. Proficient in Flutter, Dart, Riverpod, and Clean Architecture, with strong foundations in software design patterns, RESTful APIs, and backend systems. 
+
+Experienced in developing end-to-end solutions—from offline-first architectures to e-commerce and AI-powered mobile experiences. Passionate about writing clean, maintainable code and eager to bring technical problem-solving and engineering rigor to a high-impact team.
+
+---
+
+### Technical Focus
+
+- **Mobile Engineering:** Flutter, Dart, Riverpod, Clean Architecture, Kotlin (Android SDK), SQLite, Firebase, Google ML Kit
+- **Software Engineering & Backend:** SOLID Principles, OOP, Design Patterns, RESTful APIs, Laravel, PHP, MySQL, PostgreSQL
+- **Tools & Workflow:** Git, GitHub, Postman, Midtrans, Cloudinary
+
+---
+
+### Links & Contact
+
+- **Portfolio:** [herdysh30.github.io/portofolio](https://herdysh30.github.io/portofolio/)
+- **LinkedIn:** [linkedin.com/in/herdysh](https://www.linkedin.com/in/herdysh)
+- **Email:** [herdy.syaban@gmail.com](mailto:herdy.syaban@gmail.com)
