@@ -23,6 +23,6 @@ Experienced in developing end-to-end solutions—from offline-first architecture
 
 ### Links & Contact
 
-- **Portfolio:** [herdysh30.github.io/portofolio](https://herdysyabanh.me)
+- **Portfolio:** [herdysyabanh.me](https://herdysyabanh.me)
 - **LinkedIn:** [linkedin.com/in/herdysh](https://www.linkedin.com/in/herdysh)
 - **Email:** [herdy.syaban@gmail.com](mailto:herdy.syaban@gmail.com)
